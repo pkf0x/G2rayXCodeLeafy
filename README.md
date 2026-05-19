@@ -4,7 +4,7 @@
 
 A sleek VLESS proxy manager for GitHub Codespaces.
 
-[![Version](https://img.shields.io/badge/version-1.4.0-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
+[![Version](https://img.shields.io/badge/version-1.4.1-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
 [![License](https://img.shields.io/badge/license-MIT-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
 [![Status](https://img.shields.io/badge/status-stable-2DC94E?style=flat-square)]()
 
